@@ -1,4 +1,4 @@
-# Release Notes - Secure Telegram Trading Bot.........m....
+# Release Notes - Secure Telegram Trading Bot.
 
 ## Version 2.0.0
 
